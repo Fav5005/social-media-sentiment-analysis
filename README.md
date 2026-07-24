@@ -77,7 +77,8 @@ All charts and plots were rendered directly in the Jupyter Notebook using Matplo
 * **Sentiment Comparison:** Seaborn categorical plots (boxplots and bar charts) displaying median likes and comments by sentiment group.
 * **Correlation Heatmaps:** Correlation matrix identifying relationships between likes, shares, comments, and sentiment scores.
 * **Time Trends:** Resampled line plots charting sentiment shifts across days and peak activity hours.
-
+<img width="829" height="472" alt="Screenshot 2026-07-24 141623" src="https://github.com/user-attachments/assets/30f542f4-6278-4b3a-bed4-f32df618d061" />
+<img width="812" height="438" alt="Screenshot 2026-07-24 141705" src="https://github.com/user-attachments/assets/a1e691b6-c7e1-4ec3-9332-d6c696fcf9bb" />
 
 ## 💡 Key Insights
 * **Positive Content Virality:** Posts with positive sentiment achieved a noticeably higher median engagement rate compared to neutral or negative content.
