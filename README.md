@@ -5,7 +5,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-> An end-to-end data analytics project exploring user sentiment, engagement metrics, and interaction trends across social media platforms—built entirely in Python within Jupyter Notebook.
+> An end-to-end data analytics project exploring user sentiment, engagement metrics, and interaction trends across social media platforms built entirely in Python within Jupyter Notebook.
 
 ---
 
